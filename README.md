@@ -2,7 +2,9 @@
 
 # Hi, there!
 
-#### 👩🏻‍💻 I'm Maria, a data analyst, and welcome to my profile!
+## 👩🏻‍💻 I'm Maria, a data analyst, and welcome to my profile!
+
+#### Let's get to know each other, I'll start:
 
 📚 Constantly learning, deeply passionate & easy-going person<br/>
 ✨ I strive to create effective solutions by turning data into insights<br/>
